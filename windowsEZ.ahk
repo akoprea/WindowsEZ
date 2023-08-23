@@ -1,6 +1,6 @@
 ﻿/*
 NAME: Windows EZ (windowsEZ.ahk)
-AUTH: Zac C / 'Zactax'
+AUTH: Akoprea (https://github.com/akoprea)
 DATE: March 10, 2021
 DESC: Provides basic shortcuts and rules to make the Windows experience faster and better.
 	v1.1 - 03/10/2021
